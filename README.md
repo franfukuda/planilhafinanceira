@@ -20,7 +20,7 @@ O objetivo deste projeto foi consolidar os conhecimentos adquiridos no curso, cr
 
 ## 💡 Como Utilizar
 
-1. Faça o download da planilha: [Planilha.xlsx](link-para-download).
+1. Faça o download da planilha
 2. Abra o arquivo no Microsoft Excel (ou similar).
 3. Insira seus dados na aba ‘Data’.
 4. Personalize conforme sua necessidade.
